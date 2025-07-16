@@ -42,3 +42,6 @@ python train.py
 Notes
 The FNO architecture enables mesh-invariant learning, offering speedups over traditional solvers while main-
 taining physical fidelity when evaluated using domain-relevant metrics.
+
+<img width="2370" height="2588" alt="flow_result_x (1)" src="https://github.com/user-attachments/assets/16ea15ff-7fab-41e7-81cc-ed37c743380a" />
+
